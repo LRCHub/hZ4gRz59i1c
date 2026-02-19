@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ドンズバきゅん",
+  "base_artist": "iON!",
+  "createdAt": "2026-02-19T12:37:39.162855Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドンズバきゅん",
+      "artist": "iON!",
+      "has_synced": false,
+      "path": "select/pl_01_ドンズバきゅん_iON!.txt"
+    }
+  ]
+}
